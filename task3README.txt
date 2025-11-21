@@ -11,7 +11,15 @@ Date range: 1996–1998
 
 
 Provide explanation below:
+Summarize the Northwind Orders table focusing on:
+Size (rows × columns)
+Date range
+Key metrics (total orders, average freight cost, most common ship country)
+Trends
 
+Accept.
+AI output matches baseline for key metrics and adds useful trend insights without introducing bias or errors.
 
 
 For submission, commit and push this file to your GitHub.
+
