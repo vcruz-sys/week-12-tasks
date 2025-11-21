@@ -17,9 +17,24 @@ Date range
 Key metrics (total orders, average freight cost, most common ship country)
 Trends
 
+Output that I got from copilot:
+
+Dataset: Northwind Orders table
+Size: 830 rows × 14 columns
+Date range: July 1996 – May 1998
+Key Metrics:
+- Total orders: 830
+- Average freight cost: $78.92
+- Most common ship country: USA
+Trends:
+- Orders peak in Q4 each year
+- Freight costs vary by region, higher for overseas shipments
+
+My decision:
 Accept.
 AI output matches baseline for key metrics and adds useful trend insights without introducing bias or errors.
 
 
 For submission, commit and push this file to your GitHub.
+
 
